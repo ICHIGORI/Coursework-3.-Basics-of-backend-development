@@ -1,4 +1,4 @@
-from src.Pyment import Payment
+from src.Payment import Payment
 from src.Amount import Amount
 from datetime import datetime
 
