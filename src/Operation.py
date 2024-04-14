@@ -22,7 +22,7 @@ class Operation:
         return (f"Operation(id={self.id}, "
                 f"state={self.state}, "
                 f"date={self.date}, "
-                f"operationAmount={self.operationAmount},"
-                f"description={self.description},"
-                f"from={self.from_},"
+                f"operationAmount={self.operationAmount}, "
+                f"description={self.description}, "
+                f"from={self.from_}, "
                 f"to={self.to_})")
