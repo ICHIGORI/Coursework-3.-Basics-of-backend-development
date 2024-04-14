@@ -4,6 +4,7 @@ from datetime import datetime
 
 
 def create_operations(operations_data: list[dict]) -> list[Operation]:
+    """Создаёт список объектов Operation из данных json файла"""
     operations_obj = []
     operations = operations_data
     for operation in operations:
@@ -14,6 +15,7 @@ def create_operations(operations_data: list[dict]) -> list[Operation]:
 
 
 def sorted_operations_from_date(operations: list) -> list:
+    """Сортирует объекты по дате"""
     return sorted(operations, key=lambda x: datetime.strftime(x.date, "%Y-%m-%d %H:%M:%S"), reverse=True)
 
 
