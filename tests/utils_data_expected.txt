@@ -1,0 +1,6 @@
+Operation(id=441945886, state=EXECUTED, date=2019-08-26 10:50:58.294041, operationAmount=31957.58 руб., description=Перевод организации, from=Maestro 1596 83** **** 5199, to=Счет **9589)
+Operation(id=41428829, state=EXECUTED, date=2019-07-03 18:35:29.512364, operationAmount=8221.37 USD, description=Перевод организации, from=MasterCard 7158 30** **** 6758, to=Счет **5560)
+Operation(id=939719570, state=EXECUTED, date=2018-06-30 02:08:58.425572, operationAmount=9824.07 USD, description=Перевод организации, from=Счет **6952, to=Счет **6702)
+Operation(id=587085106, state=EXECUTED, date=2018-03-23 10:45:06.972075, operationAmount=48223.05 руб., description=Открытие вклада, from=None, to=Счет **2431)
+Operation(id=142264268, state=EXECUTED, date=2019-04-04 23:20:05.206878, operationAmount=79114.93 USD, description=Перевод со счета на счет, from=Счет **8542, to=Счет **4188)
+Operation(id=873106923, state=EXECUTED, date=2019-03-23 01:09:46.296404, operationAmount=43318.34 руб., description=Перевод со счета на счет, from=Счет **4719, to=Счет **1160)
